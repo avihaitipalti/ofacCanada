@@ -1,0 +1,16 @@
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+  	<Country>Burma / Birmanie</Country>
+  	<Entity>Air Bagan</Entity>
+  	<Aliases>Air Bagan Holdings Pte. Ltd., Air Bagan Limited</Aliases>
+  	<Schedule>1</Schedule>
+  	<Item>1</Item>
+  </record>
+  <record>
+  	<Country>Burma / Birmanie</Country>
+  	<Entity>Hello</Entity>
+  	<Aliases>Avihai</Aliases>
+  	<Schedule>1</Schedule>
+  	<Item>2</Item>
+  </record>
+</data-set>
