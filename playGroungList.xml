@@ -1,6 +1,6 @@
 <data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <record>
-  	<Country>Burma / Birmanie</Country>
+  	<Country>Justice for Victims of Corrupt Foreign Officials Regulations (JVCFOR) /  Règlement relatif à la justice pour les victimes de dirigeants étrangers corrompus (RJVDEC)</Country>
   	<Entity>Air Bagan</Entity>
   	<Aliases>Air Bagan Holdings Pte. Ltd., Air Bagan Limited</Aliases>
   	<Schedule>14412233</Schedule>
@@ -14,7 +14,7 @@
   	<Item>2</Item>
   </record>
   <record>
-   <Country>Venezuela </Country>
+   <Country>Venezuela</Country>
    <LastName>MADURO MOROS</LastName>
    <GivenName>Nicolás</GivenName>
    <Schedule>N/A</Schedule>
